@@ -27,3 +27,11 @@ theme = "KeepIt"
     Email   = "daniel@berninghoff.eu"
     GitHub = "burneyy"
     Stackoverflow = "10568318"
+
+[params.share]
+
+[author]
+    name = "Daniel Berninghoff"
+
+    [params.publisher]
+        name = "Daniel Berninghoff"
