@@ -1,4 +1,29 @@
-baseURL = "http://example.org/"
+baseURL = "https://berninghoff.eu/"
 languageCode = "en-us"
-title = "Homepage of Daniel Berninghoff"
-theme = "erblog"
+title = "Daniel Berninghoff"
+theme = "KeepIt"
+
+
+[params]
+    since = 2021
+    author = "Daniel Berninghoff"               # Author's name
+    subtitle = "Homepage of Daniel Berninghoff"       # Subtitle
+
+    avatar = "/images/me/avatar.png"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 4
+
+
+[params.social]
+    Email   = "daniel@berninghoff.eu"
+    GitHub = "burneyy"
+    Stackoverflow = "10568318"
