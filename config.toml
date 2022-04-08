@@ -25,6 +25,8 @@ theme = "KeepIt"
 
 [params.social]
     Email   = "daniel@berninghoff.eu"
+    LinkedIn = "daniel-berninghoff-7a4100215"
+    Xing = "Daniel_Berninghoff"
     GitHub = "burneyy"
     Stackoverflow = "10568318"
 
